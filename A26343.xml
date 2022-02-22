@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and terrible relation from Maletravis in Maligo, an island belonging to the King of Spaine, of a sad accident that befell the whole citie, it consisting of seven and thirtie thousand families and how they were destroyed all in one night by a fog or damp that rose upon them, which destroyed both men, women, and children, except five persons ... : this relation was sent to a merchan in this citie ...</title>
+            <author>Adams, Richard, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26343</idno>
+            <idno type="STC">Wing A491</idno>
+            <idno type="STC">ESTC R25835</idno>
+            <idno type="EEBO-CITATION">09204646</idno>
+            <idno type="OCLC">ocm 09204646</idno>
+            <idno type="VID">42536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1298:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and terrible relation from Maletravis in Maligo, an island belonging to the King of Spaine, of a sad accident that befell the whole citie, it consisting of seven and thirtie thousand families and how they were destroyed all in one night by a fog or damp that rose upon them, which destroyed both men, women, and children, except five persons ... : this relation was sent to a merchan in this citie ...</title>
+                  <author>Adams, Richard, 17th cent.</author>
+               </titleStmt>
+               <extent>[12] p., [2] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for Francis Coles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published as a warning for all people to repent of their sinnes, and to be prepared against sudden death."</note>
+                  <note>Signed: Richard Adams.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>God --  Wrath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42536:1" rendition="simple:additions"/>
+            <p>A <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue and Terrible Rela<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h from MALETRAVIS in ALIGO, an Iſland belonging to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of <hi>Spaine,</hi> of a ſad Accident that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efell the whole Citie, it conſiſting of ſeven and thirtie thouſand Families, and how they were deſtroyed all in one night by a Fog or Damp that roſe upon them, which deſtroyed both Men, Women, and Children, except five perſons, which by accident got downe into a Vault, and ſo eſcaped.</p>
+            <p>This Relation was ſent to a Merchant in this Citie, who lives in <hi>Creed-Church</hi> Pariſh in <hi>Leaden-hall London.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed as a Warning for all people to repent of their Sinnes, and to be prepared againſt ſudden death.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>E. P.</hi> for <hi>Francis Coles,</hi> dwelling in the <hi>Old-Bayley.</hi> 1648.</p>
+         </div>
+         <div type="illustrations">
+            <pb facs="tcp:42536:2" rendition="simple:additions"/>
+            <pb facs="tcp:42536:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:42536:3"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:42536:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42536:4"/>
+            <pb facs="tcp:42536:4"/>
+            <head>A True and terrible Relati<g ref="char:EOLhyphen"/>on from <hi>Maletravis</hi> in <hi>MALIGO.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Sinnes of Man are ſo great, and cry to the Lord ſo loud for venge<g ref="char:EOLhyphen"/>ance upon all Man-kind, that God muſt bee infi<g ref="char:EOLhyphen"/>nitely mercifull to ſpare us crawling wormes.</p>
+            <p>O <hi>England,</hi> take thou warning from this Judgement of Gods; look to thy ſelfe, God ſees thy Iniquities, and re<g ref="char:EOLhyphen"/>cords thy Tranſgreſſions, and will be
+<pb facs="tcp:42536:5"/>avenged on thee for thy ſinnes; he h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offered thee much of his Mercies, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath ſpared thee in the height of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rebellion againſt him; beware tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and repent, and amend thy wicked<g ref="char:EOLhyphen"/>neſſe. Let not the Cuſtome of ſinne take away the Conſcience of ſinne; for God hath bent his Bow like an E<g ref="char:EOLhyphen"/>nemie, and ſtands with his right hand like an Adverſarie, and will ſlay all that is pleaſant to the eye, and will poure out his Furie like fire. God threatens all impenitent ſinners, and will not ſpare them if they long con<g ref="char:EOLhyphen"/>tinue in their ſinnes: How many years hath God ſpared this Nation, who hath lived under the bleſſed meanes of the Goſpel of Jeſus Chriſt, when wee have not brought forth any thing but ſinnes and miſdeeds, he hath with patience waited the ſpring and growth of grace in us, but wee have proved barren and dry Trees, broken Ceſternes which
+<pb facs="tcp:42536:5"/>have held no water: and may not God juſtly deale with us as with <hi>Sodome</hi> and <hi>Gomorrah?</hi> Nay, with us as with <hi>Male<g ref="char:EOLhyphen"/>travis,</hi> conſume us with Fire and Brim<g ref="char:EOLhyphen"/>ſtone as he did theſe? Nay, with the leaſt breath of his noſthrills; and if one ſinne divided amongſt ten thou<g ref="char:EOLhyphen"/>ſand be able to damne them all, how ſhall this Nation ever be able to an<g ref="char:EOLhyphen"/>ſwer all thoſe abominable ſinnes that it hath committed? No ſinne but de<g ref="char:EOLhyphen"/>ſerves puniſhment, and man was ne<g ref="char:EOLhyphen"/>ver puniſhed but for ſinning; there<g ref="char:EOLhyphen"/>fore remember, O <hi>England,</hi> how wil<g ref="char:EOLhyphen"/>full thou haſt beene in deſpiſing the Mercies of God from time to time, he would have gathered thee as a Hen would have gathered her Chickens, and thou would not: Woe to thee <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> thou haſt deſtroyed thy ſelfe; if thou deferre thy repentance, God will be ſure to be avenged on thee; God will bruiſe thee with an Iron Rod, and
+<pb facs="tcp:42536:6"/>breake thee in pieces like a Potters Veſſell; But if thou call upon him in the day of trouble, he will have mercy on thee; If thou calleſt on him in the day of trouble he will heare thee, and divert thoſe Judgements which hang over thy head from thee. Had <hi>Sodome</hi> repented, God had not puniſhed; had <hi>Comorrah</hi> conſidered her Iniquities, God had not deſtroyed her; and had <hi>Maletravis</hi> remembred her Tranſgreſ<g ref="char:EOLhyphen"/>ſions, and ſorrowed for them, God had nor puniſhed her Iniquites. God hath deſtroyed thoſe Cities and many more for ſin, and undoubtedly will de<g ref="char:EOLhyphen"/>ſtroy thee <hi>(London)</hi> if thou returne not to the Lord thy God with ſpeed, lay hold on thoſe things which concerne thy everlaſting peace and comfort whilſt it is to day, leaſt God take this opportunitie from thee.</p>
+            <p>Ah, but ſome will ſay, That <hi>Sodome</hi> ſinned againſt God, and in a larger
+<pb facs="tcp:42536:6"/>meaſure then wee: But O thou miſta<g ref="char:EOLhyphen"/>ken Soule; compare the ſinnes of <hi>So<g ref="char:EOLhyphen"/>dome</hi> and <hi>Gomorrah,</hi> with the finnes of <hi>London</hi> and <hi>England,</hi> and ſee whether the ſinnes of <hi>London</hi> were not greater then the ſinnes of <hi>Sodome;</hi> Have wee not carryed our ſelves proudly againſt our God? Deſpiſed his Ordinance? Contemned is Goodneſſe? Abuſed his Patience, and turned our backs upon his Mercies? Have wee not po<g ref="char:EOLhyphen"/>luted our Land with Blood, Blaſphe<g ref="char:EOLhyphen"/>mie, and Oppreſſion? And may not God as juſtly deſtroy us as hee did them?</p>
+            <p>Ah, but ſome will ſay, This <hi>Male<g ref="char:EOLhyphen"/>travis</hi> were all Papiſts and Idolaters: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is true, they were, ſo much the worſe for us; they worſhipped God with more fervencie of ſpirit in their way then wee, conſidering the meaſure of know<g ref="char:EOLhyphen"/>lege they had; God expects no more from a man then what he hath received.
+<pb facs="tcp:42536:7"/>Had the Goſpel of Jeſus Chriſt beene ſo purely preached amongſt them as us, undoubtedly they would have brought forth better fruits.</p>
+            <p>But now to come to the Story, which is both Lamentable and true; It is a great mercie that God hath gi<g ref="char:EOLhyphen"/>ven us of this Nation, ſo long and large a time of our repentance; God hath ſhewed himſelfe a loving God, a mercifull God, a long-ſuffering God, otherwayes wee had beene conſumed as the ſtubble upon the earth, and have cauſed the earth to open and ſwallow us up, as he did <hi>Korah, Dathan,</hi> and <hi>A<g ref="char:EOLhyphen"/>biram.</hi> It is not our fighting for Re<g ref="char:EOLhyphen"/>formation that God is taken with, it muſt be our practicall parts of duty which muſt eſtabliſh us in the favour of our God; It not going twice a day to the Church that will make God in love with us; no, it muſt be a Charita<g ref="char:EOLhyphen"/>ble and Pious Converſation that muſt
+<pb facs="tcp:42536:7"/>make Gods face to ſhine upon us; It is not our Faſting-dayes from victualls that will gage God to be reconciled with us; no, it muſt be a true and live<g ref="char:EOLhyphen"/>ly faith in Chriſt, and an obſtaining from Envie, Oppreſſion, Covetouſ<g ref="char:EOLhyphen"/>neſſe, Pride, Murder, Drunkenneſſe, Blaſphemie and Prophaneneſſe, which muſt ingage God to be at peace with us. If any of theſe ſinnes predominate in our Land, wee muſt looke for the Vi<g ref="char:EOLhyphen"/>alls of Gods Wrath, and be ſure to drinke the dregs of his Indignation for them. And now let us turne to the Lord our God with all our hearts and ſoules, and ſeeke him whilſt it is yet time; which if wee doe, wee may find mercie and acceptance in the ſight of our God, and quit our Land from de<g ref="char:EOLhyphen"/>ſolation, which will inevitably fall upon us. It is good to take warning by ſuch Judgements, and make our peace with God, that he may turne his wrath
+<pb facs="tcp:42536:8"/>from us, and take us into his favour. Let us prize theſe golden opportuni<g ref="char:EOLhyphen"/>ties, and not thinke thoſe of <hi>Male<g ref="char:EOLhyphen"/>tra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is</hi> were greater finners then wee; for aſſuredly, if wee doe not repent and a<g ref="char:EOLhyphen"/>mend, wee ſhall all likewiſe periſh. This Storie is unparalell'd, the Judge<g ref="char:EOLhyphen"/>ment of God hath appeared as much upon this poore Citie of <hi>Maletravis,</hi> as upon any wee read on in any Hiſto<g ref="char:EOLhyphen"/>ry, if we look but at what a ſudden God appeared againſt them, it will make us all tremble to goe to our beds with the guilt of ſinne upon us, leaſt God appeare in wrath as upon them. Was it not a Judgement unparalell'd, when above two hundred and fifrie thouſand Soules had their lives taken out of the Land of the living in one night, be<g ref="char:EOLhyphen"/>ſides all manner of living creatures; as well Horſes, Cattell, Sheepe, Dogs, Cats, Rabbets, Mice and Rats? Thus you ſee, God did not ſpare the ſenſe<g ref="char:EOLhyphen"/>leſſe,
+<pb facs="tcp:42536:8"/>but deſtroyed them for the ſakes of the ſinnefull.</p>
+            <p>Once more I ſay, O <hi>England,</hi> conſi<g ref="char:EOLhyphen"/>der the things which belongs to thy happineſſe, and turne to the Lord thy God, for he can as eaſily deſtroy thee as he did this <hi>Maletravis.</hi>
+            </p>
+            <p>And now to the truth of the Story, I ſhall referre thee to a Letter, ſent by a Merchant in <hi>Maligo,</hi> to a Merchant in <hi>Creed-Church</hi> Pariſh <hi>London,</hi> which here I give you <hi>verbatim.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:42536:9"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon the ſecond day of <hi>September,</hi> God did ſhow the wonderfulleſt Judgement upon the Towne of <hi>Maletravis</hi> that any eares hath heard; for there was not a man, woman, or child, that eſcaped the anger of God: Nay, the verie Cattell, and all the li<g ref="char:EOLhyphen"/>ving creatures in the Towne were not exempted from death, five men onely excepted; which feeling the Dampe come ſo violently, got downe into a Vault, which was made from the Cathe<g ref="char:EOLhyphen"/>drall up to a Nunerie, which is ſome two miles or thereabouts from the Towne: They think<g ref="char:EOLhyphen"/>ing themſelves in danger, ſeeing the little chil<g ref="char:EOLhyphen"/>drens breath taken from them as they lay at their mothers breſts, got downe, and ſo eſcaped. This Damp or Fog, began at twelve of the clock at night, and continued till betwixt one and two in the morning; In which time were deſtroyed above two hundred and fiftie thouſand Soules, beſides brutts. The next morning, being
+<pb facs="tcp:42536:9"/>Market day, theſe five men came neere the Citie to ſee who went in, and whether any were left alive to buy of them; but the Coun<g ref="char:EOLhyphen"/>trey-people comming in, and ſeeing all the ſtreets lying full of dead men, women, and children, were much aſtoxiſhed, and ran away and left them, with what ſpeed they could; But theſe five men, ſeeing them goe in and out with ſafetie, and without danger, went in, and found all dead, and their owne wives and children lying in the ſtreets and gardens, breath<g ref="char:EOLhyphen"/>leſſe and life-leſſe. And when they had ſeene this ſad Spectacle, they went as faſt as they could to the Governour of this Countrey, and told him of it, and hee commodiouſly ſummo<g ref="char:EOLhyphen"/>ned a Court of Councell, and they immediate<g ref="char:EOLhyphen"/>ly commanded in the Countrey to burie them, and ſent a conſiderable partie of Souldiers to keepe the Countrey from Sacking their houſes. This being done, Proclamation was made, That if any one had any kindred in that Towne, they ſhould come and make it appeare by ſome of the neighbours upon Oath, and then they ſhould goe in and take poſſeſſion of their decea<g ref="char:EOLhyphen"/>ſed Friends Goods. Likewiſe to Merchants, they were to make Oath, and produce Letters,
+<pb facs="tcp:42536:10"/>and then they ſhould goe in and receive the like. And then they commanded all the poore to goe in and to be ſet at worke, at ſuch things as they could doe. Thus have I given you as full a Relation as I can touching the buſi<g ref="char:EOLhyphen"/>neſſe, and ſhall remaine,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Sanderſtons.</hi>
+                  </date>
+               </dateline> 
+               <salute>Deare Sir,</salute> 
+               <signed>your friend and ſervant <hi>RICHARD ADAMS.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42536:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
